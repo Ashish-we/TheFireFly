@@ -1,12 +1,15 @@
 # Project Name
 
-Project name is TheFireFly.
-It is based on the assignment provided by TheFirefly.
-It is a basic curd application with queuing, notification,custom artisan command with other more features.
-I have used AdminLTE 3.2.0 for dashboard.
-Notification can be seen by clicking the notification icon which also provides the count for notification.
-Notification are also sent through the mail.
-Mysql is used for database.
+Overview:
+TheFireFly is a robust CRUD (Create, Read, Update, Delete) application built on the assignment provided by TheFirefly. It incorporates essential features such as queuing, notifications, a custom artisan command, and more. The project utilizes AdminLTE 3.2.0 for its sleek and intuitive dashboard interface, enhancing user experience.
+
+Key Features:
+CRUD Functionality: Seamlessly create, read, update, and delete records within the application.
+Queuing: Optimize performance by implementing queuing mechanisms for efficient task management.
+Notifications: Stay informed with real-time notifications, accessible via the notification icon. The count feature provides quick insights into unread notifications.
+Email Notifications: Receive notifications via email for enhanced accessibility and reach.
+Custom Artisan Command: Streamline tasks with a custom artisan command tailored to specific project needs.
+Database Management: Utilize MySQL for robust and reliable database management.
 
 ## Table of Contents
 
